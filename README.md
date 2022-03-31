@@ -1,4 +1,4 @@
-# Wellcome to my page 👋
+# Welcome to my page 👋
 
 I'm Lina, a software developer/all around computer nerd 👩‍💻 from the North West of England.
 
@@ -17,4 +17,3 @@ Hello recruiters 😊
 * I am fairly confident with Docker at this point but I haven't used (read: managed to get working locally) an orchestration framework (i.e Kubernetes) so far.
 * and I know enough Nix to be functionally dangerous
 * Naturally I can use Git and GitHub since you're already here
-* Unfortunately stuck in a small town with no time in the week to do remote
